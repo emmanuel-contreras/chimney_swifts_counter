@@ -6,6 +6,15 @@ It's pretty fascinating to watch the chimney swifts hang around the chimney befo
 
 <hr>
 
+### Dependencies
+* numpy
+* tifffile
+* skimage
+* imageio
+* matplotlib
+
+<hr>
+
 Last frame in movie
 ![last frame](./resources/last_frame.jpg)
 
